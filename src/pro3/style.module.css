@@ -1,0 +1,19 @@
+.Div{
+    margin:0 auto;
+    border:1px solid red;
+    width:1140 px;
+    color: aqua;
+    overflow: auto
+    ;
+    background-color: black;
+}
+
+.Div > div{
+    float:left
+}
+.Button{
+    width: 70px;
+    color:black;
+    margin: 80 auto;
+
+}
